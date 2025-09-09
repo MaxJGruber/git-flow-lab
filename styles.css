@@ -4,3 +4,11 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
+
+header {
+    color: blue
+}
+
+a {
+    color:green
+}
