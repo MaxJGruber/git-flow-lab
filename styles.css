@@ -12,3 +12,9 @@ header {
 a {
     color:green
 }
+
+/* Dark theme */
+body[data-theme="dark"] {
+  background-color: #121212;
+  color: #ffffff;
+}
